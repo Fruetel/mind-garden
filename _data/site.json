@@ -1,6 +1,7 @@
 {
-    "title": "John Lemmon",
-    "desc": "1-2 sentences about the site (optional)",
-    "author": "John Lemmon",
-    "baseurl": "https://eleventy-garden.netlify.app"
+  "title": "Digital Garden of Thomas Frütel",
+  "desc": "My name is Thomas, and this is my Digital Garden",
+  "author": "Thomas Frütel",
+  "baseurl": "https://fruetel.net/"
 }
+
