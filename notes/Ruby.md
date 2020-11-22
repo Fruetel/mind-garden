@@ -15,16 +15,16 @@ powerful testing frameworks that exist for Ruby.
 
 ## Libraries
 
-- Sneakers - A fast background processing framework for Ruby and RabbitMQ
-- RSpec - Behaviour Driven Development for Ruby. Making TDD Productive and Fun.
-- Sequel - The Database Toolkit for Ruby
-- oj - Optimized JSON
+- [Sneakers](https://github.com/jondot/sneakers) - A fast background processing framework for Ruby and RabbitMQ
+- [RSpec](https://rspec.info/) - Behaviour Driven Development for Ruby. Making TDD Productive and Fun.
+- [Sequel](https://github.com/jeremyevans/sequel) - The Database Toolkit for Ruby
+- [oj](https://github.com/ohler55/oj) - Optimized JSON
 
 ## Frameworks
 
-- Sinatra - Great framework for building http based APIs
-- Hanami - Ruby framework with strong opinions about code structure
-- Rails - The most popular MVC framework for Ruby. Mostly suited for monolithic websites. I rarely use it
+- [Sinatra](http://sinatrarb.com/) - Great framework for building http based APIs
+- [Hanami](https://hanamirb.org/) - Ruby framework with strong opinions about code structure
+- [Rails](https://rubyonrails.org/) - The most popular MVC framework for Ruby. Mostly suited for monolithic websites. I rarely use it
 
 ## Code Snippets
 
